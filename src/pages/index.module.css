@@ -1,0 +1,33 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  /* background-image: url("../../static/img/mot-website-banner.jpg"); */
+  /* background-image: url("../../static/img/world.jpg"); */
+  background-image: url("../../static/img/home-header.jpg");
+  background-repeat: no-repeat;
+  /* background-color: #b8b8b8;
+  text-shadow: #7a7a7a 4px 3px 0; */
+
+  color: #d9d9d9;
+  background-color: #bababa;
+  text-shadow: #2e2e2e 0 4px 5px;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

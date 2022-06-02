@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "මීලගට",
+    "description": "The label for version current"
+  },
+  "sidebar.aboutUsSidebar.category.About Us": {
+    "message": "අප ගැන",
+    "description": "The label for category About Us in sidebar aboutUsSidebar"
+  },
+  "sidebar.contactUsSidebar.category.Contact Us": {
+    "message": "අප අමතන්න",
+    "description": "The label for category Contact Us in sidebar contactUsSidebar"
+  },
+  "sidebar.institutionsSidebar.category.Our Institutions": {
+    "message": "අප සතු ආයතන",
+    "description": "The label for category Our Institutions in sidebar institutionsSidebar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "தொழில்நுட்ப அமைச்சு",
+    "description": "The title in the navbar"
+  },
+  "item.label.About Us": {
+    "message": "எங்களைப் பற்றியது",
+    "description": "Navbar item with label About Us"
+  },
+  "item.label.Our Institutions": {
+    "message": "எமது நிறுவனங்கள்s",
+    "description": "Navbar item with label Our Institutions"
+  },
+  "item.label.Blog": {
+    "message": "இணைய பக்கம்",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Contact Us": {
+    "message": "எங்களுடன் தொடர்புகொள்க",
+    "description": "Navbar item with label Contact Us"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

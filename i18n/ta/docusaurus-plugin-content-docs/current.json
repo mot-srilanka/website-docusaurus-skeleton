@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "கூடு",
+    "description": "The label for version current"
+  },
+  "sidebar.aboutUsSidebar.category.About Us": {
+    "message": "எங்களைப் பற்றியது",
+    "description": "The label for category About Us in sidebar aboutUsSidebar"
+  },
+  "sidebar.contactUsSidebar.category.Contact Us": {
+    "message": "எங்களுடன் தொடர்புகொள்க",
+    "description": "The label for category Contact Us in sidebar contactUsSidebar"
+  },
+  "sidebar.institutionsSidebar.category.Our Institutions": {
+    "message": "எங்கள் நிறுவனங்கள்",
+    "description": "The label for category Our Institutions in sidebar institutionsSidebar"
+  }
+}

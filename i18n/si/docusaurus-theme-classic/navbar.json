@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "තාක්ෂණ අමාත්‍යාංශය",
+    "description": "The title in the navbar"
+  },
+  "item.label.About Us": {
+    "message": "අප ගැන",
+    "description": "Navbar item with label About Us"
+  },
+  "item.label.Our Institutions": {
+    "message": "අපගේ ආයතන",
+    "description": "Navbar item with label Our Institutions"
+  },
+  "item.label.Blog": {
+    "message": "බ්ලොග්",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Contact Us": {
+    "message": "අප අමතන්න",
+    "description": "Navbar item with label Contact Us"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
