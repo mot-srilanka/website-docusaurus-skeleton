@@ -9,7 +9,7 @@ const config = {
   title: 'Ministry of ABC',
   tagline: 'Sri Lanka',
   // url: 'https://stag.moa.gov.lk',
-  url: 'https://mot.moa.lk',
+  url: 'https://moa.gov.lk',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -26,19 +26,20 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/mot-srilanka/website-mot-gov-lk/tree/main/',
+          // editUrl: 'https://github.com/mot-srilanka/website-mot-gov-lk/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/mot-srilanka/website-mot-gov-lk/tree/main/',
+          // editUrl:
+          //   'https://github.com/mot-srilanka/website-mot-gov-lk/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
         gtag: {
-          trackingID: 'G-86YSCBS011',
+          // Add below your Google Analytics tracking ID to get web analytics
+          trackingID: 'G-xxxxxx',
           anonymizeIP: true,
         },
       }),
@@ -91,11 +92,6 @@ const config = {
             to: 'docs/contact-us',
             label: 'Contact Us',
             position: 'left',
-          },
-          {
-            href: 'https://github.com/moa-srilanka/website-moa-gov-lk',
-            label: 'GitHub',
-            position: 'right',
           },
           {
             type: 'localeDropdown',
